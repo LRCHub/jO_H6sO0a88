@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ストロボデイズ",
+  "base_artist": "Mercy Woodpecker",
+  "createdAt": "2025-12-03T11:31:09.775711Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ストロボデイズ",
+      "artist": "Mercy Woodpecker",
+      "has_synced": false,
+      "path": "select/pl_01_ストロボデイズ_Mercy_Woodpecker.txt"
+    }
+  ]
+}
